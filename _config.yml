@@ -1,7 +1,7 @@
 name: st
 favicon: null
-layout_spectrum: 0.50752
-typography_spectrum: 0.74207
+layout_spectrum: 0.509130027377978
+typography_spectrum: 0.40339789539575577
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#a5b6c3'
-    - '#010101'
-    - '#4b290f'
-    - '#9a7051'
-    - '#bb9770'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
   brandStrength: 0.40814307425171137
   lightness: 0.09288134216330945
   saturation: 0.314598023891449
